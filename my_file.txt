@@ -1,0 +1,6 @@
+This is line 1
+12345
+Another line with a mix of strings and numbers: 3.14
+This is line 4 (appended)
+98765 (appended)
+Appended line with a mix of strings and numbers: 2.718 (appended)
